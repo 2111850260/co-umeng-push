@@ -3,7 +3,7 @@
  * CREATED BY ZLW
  * 时间: 2020/2/5 14:15
  **/
-namespace Umeng\Push;
+namespace CoUmeng\Push;
 //require_once (dirname(__FILE__) . '/Upush.php');
 class AndroidPush
 {

@@ -1,5 +1,5 @@
 {
-    "name": "sally_zhou/co-umeng-push",
+    "name": "co-umeng/push",
     "description": "swoole umeng push",
     "type": "library",
     "license": "MIT",
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Umeng\\Push\\": "src/"
+            "CoUmeng\\push\\": "src/"
         }
     }
 }
