@@ -1,0 +1,26 @@
+{
+    "name": "sally_zhou/co-umeng-push",
+    "description": "swoole umeng push",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sally zhou",
+            "email": "zhou@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2",
+        "ext-swoole": ">=4.4"
+
+    },
+    "suggest": {
+        "ext-json": "Required to use JSON."
+    },
+    "autoload": {
+        "psr-4": {
+            "UmengPush\\": "src/"
+        }
+    }
+}
