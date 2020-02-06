@@ -3,8 +3,8 @@
 //require_once(dirname(__FILE__) . '/src/IosPush.php');
 
 
-use UmengPush\AndroidPush;
-use UmengPush\IosPush;
+use Umeng\Push\AndroidPush;
+use Umeng\Push\IosPush;
 
 $andriodConfig = [
     "APPKEY"        =>"",

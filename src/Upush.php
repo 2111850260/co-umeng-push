@@ -1,5 +1,5 @@
 <?php
-namespace UmengPush;
+namespace Umeng\Push;
 
 trait Upush{
 
