@@ -12,8 +12,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.2",
-        "ext-swoole": ">=4.4",
-        "xxx/yyy": "dev-master"
+        "ext-swoole": ">=4.4"
 
     },
     "suggest": {
