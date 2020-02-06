@@ -4,6 +4,7 @@
 
 
 use UmengPush\AndroidPush;
+use UmengPush\IosPush;
 
 $andriodConfig = [
     "APPKEY"        =>"",
