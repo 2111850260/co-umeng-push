@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Umeng\\Push": "src/"
+            "Umeng\\Push\\": "src/"
         }
     }
 }
